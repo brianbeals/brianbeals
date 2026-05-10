@@ -18,4 +18,4 @@ More coming. I'm building toward a small portfolio of agent-driven applications 
 
 A Director or VP role leading enterprise sales, GTM strategy, or practice growth at a Fortune 1000 or fast-moving mid-market company. Strong fit if the work involves building practices from scratch, vendor-neutral consultative selling across data, AI, analytics, and automation, AI-readiness work with CIOs and CDOs, or seller enablement at scale.
 
-Reach me at **brian@bealsfamily.com** or on [LinkedIn](https://www.linkedin.com/in/brianbeals/).
+Reach me at **brian@brianbeals.com** or on [LinkedIn](https://www.linkedin.com/in/brianbeals/).
