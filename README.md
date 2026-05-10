@@ -12,8 +12,6 @@ This profile is where I work in the open.
 
 **[brianbeals.com](https://github.com/brianbeals/brianbeals.com)**: my personal site. Next.js on Vercel. Built it myself, ship updates myself.
 
-**[claude-skills](https://github.com/brianbeals/claude-skills)**: a working library of Claude agent skills I use every day for sales research, account intelligence, account planning, financial modeling, and personal productivity. Real production tools, not demos.
-
 More coming. I'm building toward a small portfolio of agent-driven applications that show what enterprise sales leaders should be able to do for themselves now that the tooling has caught up.
 
 ## What I'm looking for
