@@ -4,9 +4,9 @@ I help enterprise CIOs, CDOs, and IT leaders get unstuck. The ones caught betwee
 
 I've spent my career building enterprise technology practices. At Mainline, I grew the Business Analytics group from zero to $20M in five years. At Sirius, the Big Data and Analytics group went from $20M to $78M in under four years, a 3.9× increase. At LRS IT Solutions today, I founded and lead the AI, Analytics & Automation practice. Same playbook, third time. Vendor-neutral across modern data platforms, enterprise AI, intelligent automation, observability, and FinOps.
 
-I don't just sell solutions to the enterprise. I build them.
+Sales leaders who haven't tried to build the thing tend to oversell it. I'd rather know what works.
 
-This profile is where I work in the open.
+This profile is where I keep myself honest.
 
 ## What lives here
 
