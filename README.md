@@ -1,4 +1,4 @@
-# Brian Beals
+# <img src="https://raw.githubusercontent.com/brianbeals/brianbeals/main/assets/bb-mark.png" alt="" width="28" valign="middle"> Brian Beals
 
 I help enterprise CIOs, CDOs, and IT leaders get unstuck. The ones caught between fragmented data environments and stalled proofs-of-concept.
 
