@@ -12,7 +12,9 @@ This profile is where I keep myself honest.
 
 **[brianbeals.com](https://github.com/brianbeals/brianbeals.com)**: my personal site. Next.js on Vercel. Built it myself, ship updates myself.
 
-More coming. I'm building toward a small portfolio of agent-driven applications that show what enterprise sales leaders should be able to do for themselves now that the tooling has caught up.
+**[sector-rotation-screener](https://github.com/brianbeals/sector-rotation-screener)**: scores the 11 SPDR sector ETFs against seasonality, economic-cycle fit, and relative strength, then backtests the methodology before trusting it. GitHub Actions runs it every Sunday, Claude writes the plain-language commentary, and the pipeline commits its own results and publishes a fresh dashboard to [sector.brianbeals.com](https://sector.brianbeals.com). The screener is a testbed for the analytical workflow I'd build for a CIO scoring macro exposures across business units: ingest the data, score it against multiple signals, output something a human can read, and prove it out historically before anyone trusts it.
+
+More to come in the same vein: auditable, agent-driven tools that show what enterprise sales leaders should be able to build for themselves now that the tooling has caught up.
 
 ## Where I do my best work
 
