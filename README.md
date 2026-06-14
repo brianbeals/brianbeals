@@ -2,7 +2,7 @@
 
 I help enterprise CIOs, CDOs, and IT leaders move through fragmented data environments and promising ideas that have stalled before reaching production.
 
-I've spent my career growing enterprise technology practices. At Mainline, I grew the Business Analytics group from zero to $20M in five years. At Sirius, the Big Data and Analytics group grew from $20M to $78M in under four years. Today, I lead the AI, Analytics & Automation practice I founded at LRS IT Solutions.
+I've spent my career building and growing enterprise technology practices. At Mainline, I built the Business Analytics group from zero to $20M in five years. At Sirius, I grew the Big Data and Analytics group from $20M to $78M in under four years. Today, I lead the AI, Analytics & Automation practice I founded at LRS IT Solutions.
 
 My work spans modern data platforms, enterprise AI, intelligent automation, observability, and FinOps. I am particularly interested in the distance between a compelling idea and something an organization can actually use.
 
